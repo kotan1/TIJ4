@@ -8,6 +8,7 @@ target/
 *.iml
 *.iws
 book.djvu
+solutions.pdf
 *.class
 *.info
 *.properties
